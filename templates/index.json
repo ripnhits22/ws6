@@ -16,7 +16,7 @@
           "type": "pack",
           "settings": {
             "name": "Base Inferno",
-            "subtitle": "Wholesale Pokémon repack",
+            "subtitle": "",
             "button_text": "Ask about wholesale",
             "asset_filename": "base-inferno.png",
             "image_alt": "Base Inferno Pokémon repack"
@@ -26,7 +26,7 @@
           "type": "pack",
           "settings": {
             "name": "Blaze",
-            "subtitle": "Wholesale Pokémon repack",
+            "subtitle": "",
             "button_text": "Ask about wholesale",
             "asset_filename": "blaze.png",
             "image_alt": "Blaze Pokémon repack"
